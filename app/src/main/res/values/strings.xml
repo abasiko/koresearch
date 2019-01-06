@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartWatch</string>
+    <!--<string name="base_url">https://dummytests.000webhostapp.com/connekt/</string>-->
+    <string name="base_url">http://koresearchwork.tech/smartwatch/</string>
+    <string name="permission_rationale">These Permissions are required by the app</string>
+    <string name="permission_denied_explanation">You have not granted location permission. Enable it</string>
+    <string name="settings">Settings</string>
+</resources>
